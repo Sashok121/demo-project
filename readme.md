@@ -1,3 +1,1 @@
-# task-name
-
-Description
+# Установка и настройка GIT
